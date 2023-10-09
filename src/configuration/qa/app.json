@@ -32,9 +32,9 @@
   "maxUploadSize": 5242880,
   "service": {
     "batchSize": 500,
-    "corpToken": "1hs",
-    "port": 8182,
-    "swimlane": "-qa",
+    "corpToken": "B3S81D",
+    "port": null,
+    "swimlane": "66",
     "fields": [
       "id",
       "title",

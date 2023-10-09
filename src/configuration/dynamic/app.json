@@ -9,7 +9,7 @@
     "rtf",
     "odt"
   ],
-  "companyName": "[ COMPANY NAME HERE ]",
+  "companyName": "NEEDLY",
   "companyLogoPath": "",
   "companyUrl": "",
   "careersUrl": "",
@@ -32,9 +32,9 @@
   "maxUploadSize": 5242880,
   "service": {
     "batchSize": 500,
-    "corpToken": "[ CORP TOKEN HERE ]",
+    "corpToken": "B3S81D",
     "port": null,
-    "swimlane": "[ SWIMLANE HERE ]",
+    "swimlane": "66",
     "fields": [
       "id",
       "title",
